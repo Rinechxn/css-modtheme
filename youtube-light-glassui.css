@@ -1,0 +1,52 @@
+    ytd-masthead {
+    background: #f0f0f08a;
+    backdrop-filter: blur(8px);
+    
+}
+
+* {
+      font-family: "inter", "Noto Sans Thai Looped", sans-serif !important;
+}
+
+
+ytd-guide-section-renderer.style-scope.ytd-guide-renderer {
+   background: #f0f0f08a;
+    backdrop-filter: blur(8px);
+}
+
+div.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background: #f0f0f0;
+    backdrop-filter: blur(8px);
+}
+
+#search-form {
+  border-radius: 24px !important;
+}
+
+ytd-multi-page-menu-renderer {
+    background-color: #f0f0f09a !important;
+    backdrop-filter: blur(16px);
+
+}
+
+ytd-active-account-header-renderer {
+    background-color: transparent;
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--yt-spec-10-percent-layer);
+    box-sizing: border-box;
+    position: relative;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+}
+
+ytd-simple-menu-header-renderer {
+    background-color: transparent;
+    backdrop-filter: blur(16px);
+    color: var(--yt-spec-text-primary);
+    border-bottom: 1px solid var(--yt-spec-10-percent-layer);
+    min-height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
