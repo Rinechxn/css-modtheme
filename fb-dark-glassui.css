@@ -1,137 +1,152 @@
+    /* Insert code here... */
+    * {
+        font-family: "inter", "Noto Sans Thai Looped", sans-serif !important;
+    }
+
+    .cddn0xzi {
+        background-color: #0e0e0e8a;
+        backdrop-filter: blur(16px);
+    }
+
+    body {
+        font-family: "inter", "Noto Sans Thai Looped", sans-serif !important;
+    }
+
+    ._2cir.selected {
+        border-bottom: 6px solid #fff;
+        font-weight: bold;
+    }
+    .touch ._2cir {
+        color: #fff;
+        display: block;
+        outline: none;
+        padding-bottom: 9px;
+        padding-top: 11px;
+        text-align: center;
+    }
+
+    ._55wo {
+        background: #0e0e0e;
+        /* color: wheat; */
+    }
+    ._2cis {
+        border-left: 10px solid #0e0e0e;
+        border-right: 10px solid #0e0e0e;
+    }
+
+    ._1p70 {
+        background-color: #0e0e0e;
+        padding: 16px 16px 0 16px;
+        position: relative;
+    }
+
+    ._6j_d {
+        background: #0e0e0e;
+        height: 100%;
+        left: 0;
+        margin: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 1;
+        /* position: fixed; */
+    }
+
+    ._52jb {
+        color: #fff;
+    }
+
+    div.__fb-dark-mode.gs1a9yip.rq0escxv.j83agx80.cbu4d94t.taijpn5t.kb5gq1qc.h3gjbzrl {
+        backdrop-filter: blur(8px);
+    }
+    ::-webkit-scrollbar {
+        width: 7px;
+        transition-duration: 250ms;
+    }
+    ::-webkit-scrollbar-track {
+        background: #1e1e1e;
+        transition-duration: 250ms;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #888;
+        transition-duration: 250ms;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #FFF;
+        transition-duration: 250ms;
+    }
 
 
-.cddn0xzi {
-    background-color: #0e0e0e8a;
+
+    ::-webkit-scrollbar-thumb:active {
+        background: #FFF;
+        transition-duration: 250ms;
+    }
+
+    .g28tu32o {
+        color: #fff;
+    }
+        
+    
+div.cwj9ozl2.uo3d90p7.l82x9zwi.rq0escxv.j83agx80.cbu4d94t.buofh1pr.llgrskew {
+    background-color: #1e1e1e8a;
+    backdrop-filter: blur(8px) !important;
+}
+
+
+    div.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.kt9q3ron.ak7q8e6j.isp2s0ed.ri5dt5u2.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.d1544ag0.tw6a2znq.c98fg2ug.tv7at329 {
+        background-color: rgba(60, 60, 60, 0.6);
+        backdrop-filter: blur(8px);
+    }
+
+    div.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.kt9q3ron.ak7q8e6j.isp2s0ed.ri5dt5u2.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.d1544ag0.tw6a2znq.s1i5eluu.tv7at329 {
+        background-color: #1363DF;
+    }
+
+    div.tdjehn4e.beltcj47.p86d2i9g.aot14ch1.kzx2olss.dflh9lhu.scb9dxdr.ecm0bbzt.e5nlhep0.lzcic4wl {
+        background-color: #1363DF;
+    }
+
+    div.__fb-dark-mode.gs1a9yip.rq0escxv.j83agx80.cbu4d94t.taijpn5t.kb5gq1qc.h3gjbzrl {
+        background-color: rgba(0, 0, 0, 0);
+        backdrop-filter: blur(8px);
+    }
+
+    div.l9j0dhe7.du4w35lb.cjfnh4rs.j83agx80.cbu4d94t.lzcic4wl.ni8dbmo4.stjgntxs.oqq733wu.cwj9ozl2.io0zqebd.m5lcvass.fbipl8qg.nwvqtn77.nwpbqux9.iy3k6uwz.e9a99x49.g8p4j16d.bv25afu3.d2edcug0 {
+        background-color: #0a0a0a6a;
+        backdrop-filter: blur(8px);
+    }
+
+    ._6x2x {
+        color: #fff;
+        font: bold 24px Helvetica, Arial, sans-serif;
+        line-height: 1;
+    }
+
+    ._52ja {
+        color: #ffffff9a;
+    }
+
+
+    .cwj9ozl2 {
+        background-color: #1e1e1e8a;
+        backdrop-filter: blur(8px);
+    }
+
+    div.cwj9ozl2 {
+        background-color: #1e1e1e8a;
+        backdrop-filter: blur(8px);
+    }
+
+    div[aria-label="เมนู"].l9j0dhe7.tojvnm2t.a6sixzi8.k5wvi7nf.q3lfd5jv.pk4s997a.bipmatt0.cebpdrjk.qowsmv63.owwhemhu.dp1hu0rb.dhp61c6y.l9j0dhe7.iyyx5f41.a8s20v7p.j34wkznp.qp9yad78.pmk7jnqg.kr520xx4.oi9244e8.knvmm38d {
+    background-color: #0e0e0e8a !important;
     backdrop-filter: blur(16px);
 }
-
-body {
-  font-family: "inter", "Noto Sans Thai Looped", sans-serif !important;
+    .b3i9ofy5 {
+    background-color: #2e2e2e8a;
+     
 }
-
-._2cir.selected {
-    border-bottom: 6px solid #fff;
-    font-weight: bold;
-}
-.touch ._2cir {
-    color: #fff;
-    display: block;
-    outline: none;
-    padding-bottom: 9px;
-    padding-top: 11px;
-    text-align: center;
-}
-
-._55wo {
-    background: #0e0e0e;
-    /* color: wheat; */
-}
-._2cis {
-    border-left: 10px solid #0e0e0e;
-    border-right: 10px solid #0e0e0e;
-}
-
-._1p70 {
-    background-color: #0e0e0e;
-    padding: 16px 16px 0 16px;
-    position: relative;
-}
-
-._6j_d {
-    background: #0e0e0e;
-    height: 100%;
-    left: 0;
-    margin: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-    /* position: fixed; */
-}
-
-._52jb {
-    color: #fff;
-}
-
-div.__fb-dark-mode.gs1a9yip.rq0escxv.j83agx80.cbu4d94t.taijpn5t.kb5gq1qc.h3gjbzrl {
-  backdrop-filter: blur(8px);
-}
-::-webkit-scrollbar {
-    width: 7px;
-    transition-duration: 250ms;
-}
-::-webkit-scrollbar-track {
-    background: #1e1e1e;
-    transition-duration: 250ms;
-}
-::-webkit-scrollbar-thumb {
-    background: #888;
-    transition-duration: 250ms;
-
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #FFF;
-    transition-duration: 250ms;
-}
-
-
-
-::-webkit-scrollbar-thumb:active {
-    background: #FFF;
-    transition-duration: 250ms;
-}
-
-.g28tu32o {
-    color: #fff;
-}
-
-
-
-div.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.kt9q3ron.ak7q8e6j.isp2s0ed.ri5dt5u2.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.d1544ag0.tw6a2znq.c98fg2ug.tv7at329 {
-  background-color: rgba(60,60,60,0.6);
-  backdrop-filter: blur(8px);
-}
-
-div.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.kt9q3ron.ak7q8e6j.isp2s0ed.ri5dt5u2.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.d1544ag0.tw6a2znq.s1i5eluu.tv7at329 {
-  background-color: #1363DF;
-}
-
-div.tdjehn4e.beltcj47.p86d2i9g.aot14ch1.kzx2olss.dflh9lhu.scb9dxdr.ecm0bbzt.e5nlhep0.lzcic4wl {
-  background-color: #1363DF;
-}
-
-div.__fb-dark-mode.gs1a9yip.rq0escxv.j83agx80.cbu4d94t.taijpn5t.kb5gq1qc.h3gjbzrl {
-  background-color: rgba(0,0,0,0);
-  backdrop-filter: blur(8px);
-}
-
-div.l9j0dhe7.du4w35lb.cjfnh4rs.j83agx80.cbu4d94t.lzcic4wl.ni8dbmo4.stjgntxs.oqq733wu.cwj9ozl2.io0zqebd.m5lcvass.fbipl8qg.nwvqtn77.nwpbqux9.iy3k6uwz.e9a99x49.g8p4j16d.bv25afu3.d2edcug0 {
-  background-color: #0a0a0a6a;
-  backdrop-filter: blur(8px);
-}
-
-._6x2x {
-    color: #fff;
-    font: bold 24px Helvetica, Arial, sans-serif;
-    line-height: 1;
-}
-
-._52ja {
-    color: #ffffff9a;
-}
-
-
-.cwj9ozl2 {
-    background-color: #1e1e1e8a;
-    backdrop-filter: blur(8px);
-}
-
-div.cwj9ozl2 {
-    background-color: #1e1e1e8a;
-    backdrop-filter: blur(8px);
-}
-
-#mwchat-tabs {
-  background-color: transparent !important;
-}
+        input:focus, textarea:focus, select:focus{
+        outline: none;
+    }
