@@ -450,7 +450,7 @@ div.header-1w9Q93 {
 }
 
 .body-1Ukv50, .topSection-13QKHs {
-   background-color: transparent;
+   background-color: #2e2e2e9a;
 }
 
 div.message-G6O-Wv.spacing-2kYqCu {
@@ -508,3 +508,14 @@ div.flex-2S1XBF.flex-3BkGQD.horizontalReverse-60Katr.horizontalReverse-2QssvL.fl
 div.contents-3ca1mk.premiumSubscribeButton-17z7Tg {
    color: #fff !important;
 }
+
+div.styleFlexible-x0_sIC{
+   background-color: #1e1e1e;
+   /* backdrop-filter: blur(16px); */
+}
+
+div.scroller-18M1mG.thin-31rlnD.scrollerBase-_bVAAt {
+   background-color: #1e1e1e9a;
+   backdrop-filter: blur(16px) !important;
+}
+
