@@ -184,7 +184,7 @@ div[class*="headerTagNoNickname"] {
 
 .titleBar-1it3bQ> :nth-child(2) {
    /* display: none; */
-   background-color: #ffffff;
+   background-color: #ffffff8a;
    border-radius: 9999px;
    width: 7px;
    height: 7px;
@@ -192,16 +192,17 @@ div[class*="headerTagNoNickname"] {
    margin-left: 4px;
 }
 .titleBar-1it3bQ> :nth-child(3) {
-   background-color: #ffffff;
+   background-color: #ffffff8a;
    border-radius: 9999px !important;
    width: 7px;
    height: 7px; 
    margin-top: 8px;
    margin-left: 4px;
+   border: none !important;
 }
 
 .titleBar-1it3bQ> :nth-child(4) {
-   background-color: #ffffff;
+   background-color: #ffffff8a;
    border-radius: 9999px;
    width: 7px;
    height: 7px;
@@ -1073,4 +1074,64 @@ section.container-ZMc96U{
 
 .contentRegionScroller-2_GT_N {
    background-color: #0e0e0e !important;
+}
+
+.closeButton-PCZcma {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: center;
+   -ms-flex-pack: center;
+   justify-content: center;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   -webkit-box-flex: 0;
+   -ms-flex: 0 0 36px;
+   flex: 0 0 36px;
+   border-width: 0px;
+   border-style: solid;
+   border-radius: 50%;
+   width: 36px;
+   height: 36px;
+   cursor: pointer;
+}
+
+.sidebar-nqHbhN {
+   width: 100%;
+   padding: 60px 6px 60px 20px;
+}
+
+.sidebarRegionScroller-FXiQOh {
+   width: 320px !important;
+   margin-right: -10px;
+   background: none;
+   background-color: #0e0e0e1a;
+}
+
+.standardSidebarView-E9Pc3j {
+   position: absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   z-index: 101;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   background-color: transparent;
+}
+
+.image-36HiZc, .modal-3Crloo {
+   border-radius: 12px;
+   transition-duration: 250ms;
+}
+
+.image-36HiZc:hover {
+   transform: scale(0.98);
+   transition-duration: 250ms;
+}
+.image-36HiZc:active {
+   transform: scale(0.95);
+   transition-duration: 250ms;
 }
